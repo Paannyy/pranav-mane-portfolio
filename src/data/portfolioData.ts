@@ -61,7 +61,9 @@ export const PORTFOLIO_DATA = {
     ],
     headshotPath: "/assets/pranav_headshot.jpg",
     resumePath: "/assets/pranav_mane_resume.pdf",
-    githubPlaceholder: "https://github.com/#", // TODO: Update with Pranav's actual GitHub profile
+    githubProfile: "https://github.com/Paannyy",
+    portfolioRepo: "https://github.com/Paannyy/pranav-mane-portfolio",
+    githubPlaceholder: "https://github.com/Paannyy",
   },
 
   // Recruiter Quick Audit Data
